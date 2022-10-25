@@ -44,6 +44,8 @@
   },
   "homepage": "https://github.com/NastyaKatyushkina/advanced-1#readme",
   "dependencies": {
-    "core-js": "^3.26.0"
-  }
+    "core-js": "^3.26.0",
+    "npm": "^8.19.2"
+  },
+  "keywords": []
 }
